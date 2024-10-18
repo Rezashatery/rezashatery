@@ -1,5 +1,9 @@
 # 💫 About Me:
-I hold a Master's degree in Artificial Intelligence from the University of Bologna and currently work at PwC Italy. With 8 years of experience in software engineering and AI development, I have developed my skills in various fields such as machine learning, deep learning, NLP, computer vision, and coding with languages such as Python and Java. I am a dedicated self-learner and a quick adapter, always excited to explore new innovations. My profile showcases a comprehensive list of the skills I have acquired over the years, reflecting my commitment to continuous growth and excellence in the field.
+I earned a Master's degree in Artificial Intelligence from the University of Bologna and completed an internship at PwC Italy. With 8 years of experience in software engineering and AI development, I have developed a deep expertise in machine learning, deep learning, natural language processing (NLP), computer vision, and software development, with a strong focus on Python and Java.
+
+For my Master's thesis, I worked on readability assessment for text simplification, which enhanced my understanding of NLP and its practical applications. Throughout my career, I’ve contributed to a wide range of AI projects, sharpening my skills in Python programming, machine learning, and deep learning technologies. I’ve also designed and implemented AI-driven solutions across various domains, including predictive analytics and computer vision, demonstrating my ability to tackle complex, real-world challenges.
+
+I’m passionate about learning and adapting quickly to new advancements in AI. I love staying on the cutting edge of innovation, constantly expanding my knowledge and skills. My experience and projects reflect a strong commitment to personal growth and delivering high-quality, impactful AI solutions.
 
 
 ## 🌐 Socials:

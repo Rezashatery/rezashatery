@@ -11,7 +11,7 @@ I am highly motivated, adaptable, and passionate about continuous learning. I en
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reza-shatery-26abb277) 
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://sites.google.com/view/rezashatery/home)
+[![Website](https://img.shields.io/badge/Personal%20Website-blue)](https://sites.google.com/view/rezashatery/home)
 
 
 # 💻 Tech Stack:
